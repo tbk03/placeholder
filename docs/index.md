@@ -1,7 +1,7 @@
 --- 
 title: "Exercises from Storytelling with Data: Let's practice!"
 author: "Chris J. Martin"
-date: "2021-05-05"
+date: "2021-05-06"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
